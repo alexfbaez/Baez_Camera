@@ -48,6 +48,7 @@
                         ]
                     },
                     "enabledFeatures": {
+                        "location": true,
                         "iap": false
                     }
                 },
@@ -71,6 +72,7 @@
                         ]
                     },
                     "enabledFeatures": {
+                        "location": true,
                         "iap": false
                     }
                 }
@@ -88,10 +90,10 @@
                     }
                 ]
             },
-            "figmaComponents": null,
+            "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Baez_Camera",
+            "projectName": "Baez_CameraNew",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -125,7 +127,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -174,7 +176,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
